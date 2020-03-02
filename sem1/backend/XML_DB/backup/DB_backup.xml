@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <myHorses>
+    <horseID>3</horseID>
+    <horseName>name1</horseName>
+    <horseBreed>breed1</horseBreed>
+    <picture>Knapstrupper.jpg</picture>
+  </myHorses>
+  <myHorses>
+    <horseID>4</horseID>
+    <horseName>name2</horseName>
+    <horseBreed>breed2</horseBreed>
+    <picture>Pinto.jpg</picture>
+  </myHorses>
+  <myHorses>
+    <horseID>5</horseID>
+    <horseName>name3</horseName>
+    <horseBreed>breed3</horseBreed>
+    <picture>Sakhee.jpg</picture>
+  </myHorses>
+</NewDataSet>

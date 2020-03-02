@@ -1,0 +1,78 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow-y: scroll;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    width: 100%;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 40px;
+    margin-top: 20px;
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+input[type="submit" i] {
+    background-color: #4c04c2;
+    padding: 20px 50px 20px 50px;
+    border-style: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#ContentPlaceHolder1_ListBoxResults{
+    margin: auto;
+}
+#resultsAll {
+    width: 100%;
+    display: flex;
+}
+.resultTraindriver, .resultAdmin{
+    margin: auto;
+}
+.addNew {
+    width: 100%;
+    display: flex;
+}
+.newTraindriver, .newAdmin{
+    margin: auto;
+}
+#ContentPlaceHolder1_ButtonTrainDriverCreate,
+#ContentPlaceHolder1_ButtonAdminCreate,
+#ContentPlaceHolder1_ButtonFrontPage {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+    #btnFrontpage{
+        width: 100%;
+        text-align: center;
+    }
+    #seeUsers {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+footer{
+    padding: 20px;
+    background-color: #121212;
+    text-align: center;
+    color: white;
+}

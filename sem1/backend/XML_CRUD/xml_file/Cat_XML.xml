@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<Cats>
+  <Cat>
+    <CatID>1</CatID>
+    <CatName>Garfield</CatName>
+    <CatColour>Orange</CatColour>
+    <Picture>kat4.jpg</Picture>
+  </Cat>
+  <Cat>
+    <CatID>2</CatID>
+    <CatName>Bastet</CatName>
+    <CatColour>Dark</CatColour>
+    <Picture>kat5.jpg</Picture>
+  </Cat>
+  <Cat>
+    <CatID>3</CatID>
+    <CatName>Tom</CatName>
+    <CatColour>Grey</CatColour>
+    <Picture>kat2.jpg</Picture>
+  </Cat>
+  <Cat>
+    <CatID>4</CatID>
+    <CatName>createdCat</CatName>
+    <CatColour>green</CatColour>
+    <Picture>kat1.jpg</Picture>
+  </Cat>
+</Cats>

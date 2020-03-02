@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE employees SYSTEM "employees.dtd">
+<!-- An external DTD can be used for validation (can cause problems)-->
+
+<!-- This is a list of employees  -->
+<employees>
+  <employee employeeid="1">
+    <firstname>Nancy</firstname>
+    <lastname>Davollo</lastname>
+    <homephone>(206) 555-9857</homephone>
+    <notes>
+      <![CDATA[</notes> Nancy was born in New York 1990.]]>
+    </notes>
+  </employee>
+
+  <employee employeeid="2">
+    <firstname>Andrew</firstname>
+    <lastname>Fuller</lastname>
+    <homephone>(206) 555-9482</homephone>
+    <notes>
+      <![CDATA[Andrew is a pilot in delta airlines]]>
+    </notes>
+  </employee>
+
+  <employee employeeid="3">
+    <firstname>Janet</firstname>
+    <lastname>Leverling</lastname>
+    <homephone>(206) 555-3412</homephone>
+    <notes>
+      <![CDATA[Janet is a Microsoft manager.]]>
+    </notes>
+  </employee>
+</employees>

@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="handin3.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:HyperLink ID="navIndex" runat="server" NavigateUrl="~/index.aspx">Home</asp:HyperLink>
+        <asp:HyperLink ID="navCreate" runat="server" NavigateUrl="~/create.aspx">Create</asp:HyperLink>
+        <asp:HyperLink ID="navUpdate" runat="server" NavigateUrl="~/update.aspx">Update</asp:HyperLink>
+        <asp:HyperLink ID="navDelete" runat="server" NavigateUrl="~/delete.aspx">Delete</asp:HyperLink>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

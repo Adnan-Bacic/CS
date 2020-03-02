@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="Cat">
+    <Name>white2</Name>
+    <Colour>blue</Colour>
+    <Catchip>
+      <Id>4</Id>
+    </Catchip>
+  </anyType>
+  <anyType xsi:type="Cat">
+    <Name>adnan</Name>
+    <Colour>black</Colour>
+    <Catchip>
+      <Id>1</Id>
+    </Catchip>
+  </anyType>
+</ArrayOfAnyType>

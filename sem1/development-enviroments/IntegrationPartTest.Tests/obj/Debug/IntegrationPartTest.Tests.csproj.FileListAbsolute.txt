@@ -1,0 +1,16 @@
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\IntegrationPartTest.Tests.dll
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\IntegrationPartTest.Tests.pdb
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\IntegrationPartTest.dll
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\IntegrationPartTest.pdb
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\IntegrationPartTest.dll.config
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\obj\Debug\IntegrationPartTest.Tests.csprojAssemblyReference.cache
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\obj\Debug\IntegrationPartTest.Tests.csproj.CopyComplete
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\obj\Debug\IntegrationPartTest.Tests.dll
+C:\C#\sem1\development-enviroments\IntegrationPartTest.Tests\obj\Debug\IntegrationPartTest.Tests.pdb

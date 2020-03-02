@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="masterPage.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Masters, themes and skins</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <%--Possible problem with stylesheet for paster page. related to caching
+    If new style not seen: rename stylesheet.--%>
+    <link href="~/styles/site1master.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div class="header">
+                <asp:Label ID="LabelHeader" runat="server" CssClass="headertext" EnableTheming="false" Text="Different types of cats"></asp:Label>
+                <br />
+                <br />
+                <div class="myMenuBar">
+                    <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/domestic.aspx" Text="Domestic"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/egyptian.aspx" Text="Egyptian"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/cartoon.aspx" Text="cartoon"></asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </div>
+                    <br />
+                    <asp:Label ID="Label1" runat="server" CssClass="toptext" EnableTheming="false" Text="Seleted cat"></asp:Label>
+                    <br />
+                    <br />
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

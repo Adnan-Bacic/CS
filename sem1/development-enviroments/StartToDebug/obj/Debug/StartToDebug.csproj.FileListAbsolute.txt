@@ -1,0 +1,6 @@
+C:\C#\sem1\development-enviroments\StartToDebug\bin\Debug\StartToDebug.exe.config
+C:\C#\sem1\development-enviroments\StartToDebug\bin\Debug\StartToDebug.exe
+C:\C#\sem1\development-enviroments\StartToDebug\bin\Debug\StartToDebug.pdb
+C:\C#\sem1\development-enviroments\StartToDebug\obj\Debug\StartToDebug.csprojAssemblyReference.cache
+C:\C#\sem1\development-enviroments\StartToDebug\obj\Debug\StartToDebug.exe
+C:\C#\sem1\development-enviroments\StartToDebug\obj\Debug\StartToDebug.pdb

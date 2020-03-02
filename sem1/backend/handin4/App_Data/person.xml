@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="Person">
+    <Name>adnan</Name>
+    <Age>21</Age>
+    <Email>adnan-bacic@hotmail.com</Email>
+    <Card>
+      <Keynumber>1</Keynumber>
+    </Card>
+  </anyType>
+</ArrayOfAnyType>

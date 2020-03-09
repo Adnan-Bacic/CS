@@ -11,6 +11,10 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="LabelMessages" runat="server"></asp:Label>
+            <br />
+            <asp:Label ID="LabelLogo" runat="server"></asp:Label>
+
             <nav>
                 <ul>
                     <li><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/index.aspx">Frontpage</asp:HyperLink></li>
@@ -20,7 +24,9 @@
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
             <footer>
-                <p>Footer</p>
+                <p>
+                    <asp:Label ID="LabelFooter" runat="server"></asp:Label>
+                </p>
             </footer>
         </div>
     </form>

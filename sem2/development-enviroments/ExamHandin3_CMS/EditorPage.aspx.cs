@@ -54,6 +54,37 @@ namespace ExamHandin3_CMS
 
             try
             {
+                //if there is a file
+                if (FileUploadImage.HasFile)
+                {
+                    //if the name is not empty
+                    if (TextBoxHeadline.Text != "")
+                    {
+                        //if the first character is not a space
+                        if (TextBoxHeadline.Text.Substring(0, 1) != " ")
+                        {
+                            //where to upload files and the name of the file
+                            FileUploadImage.SaveAs(Server.MapPath("~/ItemImages/") + TextBoxImageURL.Text);
+                            LabelMessages.Text = "File uploaded";
+
+                            //get file info
+                            LabelMessages.Text = FileUploadImage.PostedFile.FileName + ";" + FileUploadImage.PostedFile.ContentLength.ToString() + ";" + FileUploadImage.PostedFile.ContentType.ToString();
+                        }
+                        else
+                        {
+                            LabelMessages.Text = "Inital space is not allowed";
+                        }
+                    }
+                    else
+                    {
+                        LabelMessages.Text = "New filename is missing";
+                    }
+                }
+                else
+                {
+                    LabelMessages.Text = "Wrong file";
+                }
+
                 conn.Open();
 
                 cmd = new SqlCommand(sqlInsert, conn); //get data

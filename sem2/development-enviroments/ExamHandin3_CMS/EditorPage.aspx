@@ -11,9 +11,11 @@
 <br />
 <asp:TextBox ID="TextBoxDescription" runat="server"></asp:TextBox>
 <asp:Label ID="LabelDescription" runat="server" Text="Description"></asp:Label>
+    <br />
+    <asp:FileUpload ID="FileUploadImage" runat="server" />
 <br />
 <asp:TextBox ID="TextBoxImageURL" runat="server"></asp:TextBox>
-<asp:Label ID="LabelImageURL" runat="server" Text="Image URL"></asp:Label>
+<asp:Label ID="LabelImageURL" runat="server" Text="Image name"></asp:Label>
 <br />
 <asp:TextBox ID="TextBoxIsHighlighted" runat="server"></asp:TextBox>
 <asp:Label ID="LabelIsHighlighted" runat="server" Text="Is highlighted?"></asp:Label>
@@ -25,5 +27,4 @@
     <asp:GridView ID="GridViewItems" runat="server">
     </asp:GridView>
 
-    <hr />
 </asp:Content>

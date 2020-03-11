@@ -72,7 +72,7 @@ namespace ExamHandin3_CMS
                         }
                         else
                         {
-                            LabelMessages.Text = "Inital space is not allowed";
+                            LabelMessages.Text = "Space as the first characters is not allowed";
                         }
                     }
                     else
@@ -82,7 +82,7 @@ namespace ExamHandin3_CMS
                 }
                 else
                 {
-                    LabelMessages.Text = "Wrong file";
+                    LabelMessages.Text = "No file selected";
                 }
 
                 conn.Open();
@@ -116,6 +116,45 @@ namespace ExamHandin3_CMS
                 conn.Close();
             }
             GetData();
+        }
+
+        protected void ButtonJokeCreate_Click(object sender, EventArgs e)
+        {
+            {
+                SqlConnection conn = new SqlConnection(@"data source = localhost; integrated security = true;
+            database = webdev-sem2-devEnv-handin3");
+                SqlCommand cmd = null;
+                string sqlInsert = "INSERT INTO jokes (jokeQuestion, jokeAnswer, fk_id) VALUES (@jokeQuestion, @jokeAnswer, @fk_id)";
+
+                try
+                {
+                    conn.Open();
+
+                    cmd = new SqlCommand(sqlInsert, conn); //get data
+                                                           //parameters
+                                                           //cmd.Parameters.Add("@itemID", SqlDbType.Int);
+                    cmd.Parameters.Add("@jokeQuestion", SqlDbType.Text);
+                    cmd.Parameters.Add("@jokeAnswer", SqlDbType.Text);
+                    cmd.Parameters.Add("@fk_id", SqlDbType.Int);
+
+                    //where to get the values
+                    //cmd.Parameters["@itemID"].Value = Convert.ToInt32(TextBoxDelayedID.Text);
+                    cmd.Parameters["@jokeQuestion"].Value = TextBoxJokeQuestion.Text;
+                    cmd.Parameters["@jokeAnswer"].Value = TextBoxJokeAnswer.Text;
+                    cmd.Parameters["@fk_id"].Value = TextBoxJokeFKID.Text;
+
+                    cmd.ExecuteNonQuery();
+                    LabelMessages.Text = "New joke added";
+                }
+                catch (Exception e_insert) //if there are errors
+                {
+                    LabelMessages.Text = e_insert.Message;
+                }
+                finally
+                {
+                    conn.Close();
+                }
+            }
         }
     }
 }

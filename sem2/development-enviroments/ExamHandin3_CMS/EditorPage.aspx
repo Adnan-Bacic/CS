@@ -2,6 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:Label ID="LabelMessages" runat="server"></asp:Label>
     <h2>Add new item</h2>
     <asp:TextBox ID="TextBoxHeadline" runat="server"></asp:TextBox>
 <asp:Label ID="LabelHeadline" runat="server" Text="Headline"></asp:Label>
@@ -22,9 +23,22 @@
 <br />
 <asp:Button ID="ButtonCreate" runat="server" OnClick="ButtonCreate_Click" Text="Create" />
 <br />
-    <asp:Label ID="LabelMessages" runat="server"></asp:Label>
 
     <asp:GridView ID="GridViewItems" runat="server">
     </asp:GridView>
+
+    <hr />
+    <h1>Add a joke</h1>
+        <asp:TextBox ID="TextBoxJokeQuestion" runat="server"></asp:TextBox>
+        <asp:Label ID="LabelJokeQuestion" runat="server" Text="Question"></asp:Label>
+
+    <br />
+    <asp:TextBox ID="TextBoxJokeAnswer" runat="server"></asp:TextBox>
+    <asp:Label ID="LabelJokeAnswer" runat="server" Text="Answer"></asp:Label>
+    <br />
+<asp:TextBox ID="TextBoxJokeFKID" runat="server"></asp:TextBox>
+<asp:Label ID="LabelFKID" runat="server" Text="What item ID should match with this joke?"></asp:Label>
+    <br />
+    <asp:Button ID="ButtonJokeCreate" runat="server" OnClick="ButtonJokeCreate_Click" Text="Add joke" />
 
 </asp:Content>

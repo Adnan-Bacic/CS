@@ -15,6 +15,15 @@ namespace ExamHandin3_CMS
     {
 
         /// <summary>
+        /// LabelMessages control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelMessages;
+
+        /// <summary>
         /// TextBoxHeadline control.
         /// </summary>
         /// <remarks>
@@ -123,15 +132,6 @@ namespace ExamHandin3_CMS
         protected global::System.Web.UI.WebControls.Button ButtonCreate;
 
         /// <summary>
-        /// LabelMessages control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelMessages;
-
-        /// <summary>
         /// GridViewItems control.
         /// </summary>
         /// <remarks>
@@ -139,5 +139,68 @@ namespace ExamHandin3_CMS
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView GridViewItems;
+
+        /// <summary>
+        /// TextBoxJokeQuestion control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxJokeQuestion;
+
+        /// <summary>
+        /// LabelJokeQuestion control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelJokeQuestion;
+
+        /// <summary>
+        /// TextBoxJokeAnswer control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxJokeAnswer;
+
+        /// <summary>
+        /// LabelJokeAnswer control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelJokeAnswer;
+
+        /// <summary>
+        /// TextBoxJokeFKID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxJokeFKID;
+
+        /// <summary>
+        /// LabelFKID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelFKID;
+
+        /// <summary>
+        /// ButtonJokeCreate control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonJokeCreate;
     }
 }

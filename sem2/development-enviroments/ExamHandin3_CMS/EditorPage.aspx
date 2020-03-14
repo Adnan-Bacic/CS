@@ -24,10 +24,20 @@
 <asp:Button ID="ButtonCreate" runat="server" OnClick="ButtonCreate_Click" Text="Create" />
 <br />
 
-    <asp:GridView ID="GridViewItems" runat="server">
+    <h2>Update highlighted items</h2>
+    <asp:GridView ID="GridViewItems" runat="server" EmptyDataText="No data yet" OnSelectedIndexChanged="GridViewItems_SelectedIndexChanged">
+        <Columns>
+            <asp:CommandField ShowSelectButton="True" />
+        </Columns>
     </asp:GridView>
+    <asp:Label ID="LabelUpdateInfo" runat="server"></asp:Label>
+    <br />
+    <asp:TextBox ID="TextBoxUpdateHighlight" runat="server"></asp:TextBox>
+    <asp:Label ID="LabelSelectedInfo" runat="server" Text="Change item to be highlighted or not. 0 is not highlighted, 1 is highlighted."></asp:Label>
 
-    <hr />
+    <br />
+    <asp:Button ID="ButtonUpdateHighlight" runat="server" OnClick="ButtonUpdateHighlight_Click" Text="Update" />
+
     <h1>Add a joke</h1>
         <asp:TextBox ID="TextBoxJokeQuestion" runat="server"></asp:TextBox>
         <asp:Label ID="LabelJokeQuestion" runat="server" Text="Question"></asp:Label>

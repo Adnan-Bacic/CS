@@ -156,5 +156,49 @@ namespace ExamHandin3_CMS
                 }
             }
         }
+
+        //inserting data into textbox when clicking on select in gridview
+        protected void GridViewItems_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //when a user clicks on the select, it will show info in textbox
+            TextBoxUpdateHighlight.Text = GridViewItems.SelectedRow.Cells[6].Text;
+
+            //showing current info in label
+            LabelUpdateInfo.Text = "Your choose item with ID: " +
+            GridViewItems.SelectedRow.Cells[1].Text + " and it currently has a highlight value of " +
+            GridViewItems.SelectedRow.Cells[6].Text;
+        }
+
+        protected void ButtonUpdateHighlight_Click(object sender, EventArgs e)
+        {
+            SqlConnection conn = new SqlConnection(@"data source = localhost; integrated security = true; database = webdev-sem2-devEnv-handin3");
+            SqlCommand cmd = null;
+            string sqlUpdate = "update items set isHighlighted = @isHighlighted where itemID = @ItemID";
+
+            try
+            {
+                conn.Open();
+
+                cmd = new SqlCommand(sqlUpdate, conn); //get data
+                //parameters
+                cmd.Parameters.Add("@itemID", SqlDbType.Int);
+                cmd.Parameters.Add("@isHighlighted", SqlDbType.TinyInt);
+
+                //where to get the values
+                cmd.Parameters["@itemID"].Value = Convert.ToInt32(GridViewItems.SelectedRow.Cells[1].Text);
+                cmd.Parameters["@isHighlighted"].Value = Convert.ToInt32(TextBoxUpdateHighlight.Text);
+
+                cmd.ExecuteNonQuery();
+                LabelUpdateInfo.Text = "Item has been updated";
+            }
+            catch (Exception ex) //if there are errors
+            {
+                LabelUpdateInfo.Text = ex.Message;
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
     }
 }

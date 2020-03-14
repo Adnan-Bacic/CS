@@ -141,6 +141,42 @@ namespace ExamHandin3_CMS
         protected global::System.Web.UI.WebControls.GridView GridViewItems;
 
         /// <summary>
+        /// LabelUpdateInfo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelUpdateInfo;
+
+        /// <summary>
+        /// TextBoxUpdateHighlight control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxUpdateHighlight;
+
+        /// <summary>
+        /// LabelSelectedInfo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelSelectedInfo;
+
+        /// <summary>
+        /// ButtonUpdateHighlight control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonUpdateHighlight;
+
+        /// <summary>
         /// TextBoxJokeQuestion control.
         /// </summary>
         /// <remarks>

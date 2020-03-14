@@ -54,3 +54,6 @@ C:\C#\dogClass\obj\Debug\dogClass.csproj.CoreCompileInputs.cache
 C:\C#\dogClass\obj\Debug\dogClass.csproj.CopyComplete
 C:\C#\dogClass\obj\Debug\dogClass.dll
 C:\C#\dogClass\obj\Debug\dogClass.pdb
+C:\CS\sem1\backend\dogClass\obj\Debug\dogClass.csprojAssemblyReference.cache
+C:\CS\sem1\backend\dogClass\obj\Debug\dogClass.dll
+C:\CS\sem1\backend\dogClass\obj\Debug\dogClass.pdb

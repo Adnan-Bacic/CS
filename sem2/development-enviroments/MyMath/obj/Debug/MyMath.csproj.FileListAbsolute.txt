@@ -1,0 +1,13 @@
+C:\CS\sem2\development-enviroments\MyMath\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\CS\sem2\development-enviroments\MyMath\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\CS\sem2\development-enviroments\MyMath\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\CS\sem2\development-enviroments\MyMath\bin\Debug\MyMath.dll
+C:\CS\sem2\development-enviroments\MyMath\bin\Debug\MyMath.pdb
+C:\CS\sem2\development-enviroments\MyMath\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\CS\sem2\development-enviroments\MyMath\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\CS\sem2\development-enviroments\MyMath\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\CS\sem2\development-enviroments\MyMath\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\CS\sem2\development-enviroments\MyMath\obj\Debug\MyMath.csprojAssemblyReference.cache
+C:\CS\sem2\development-enviroments\MyMath\obj\Debug\MyMath.csproj.CopyComplete
+C:\CS\sem2\development-enviroments\MyMath\obj\Debug\MyMath.dll
+C:\CS\sem2\development-enviroments\MyMath\obj\Debug\MyMath.pdb

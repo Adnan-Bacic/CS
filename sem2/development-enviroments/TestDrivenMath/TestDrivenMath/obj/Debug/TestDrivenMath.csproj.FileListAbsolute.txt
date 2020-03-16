@@ -1,0 +1,104 @@
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csc.exe
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csc.exe.config
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csc.rsp
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csi.exe
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csi.rsp
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.AppContext.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.IO.FileSystem.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\vbc.exe
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\vbc.exe.config
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\vbc.rsp
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\VBCSCompiler.exe
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\TestDrivenMath.dll.config
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\TestDrivenMath.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\TestDrivenMath.pdb
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.csprojResolveAssemblyReference.cache
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.dll
+c:\users\tor\documents\visual studio 2017\Projects\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.pdb
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csc.exe
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csc.exe.config
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csc.rsp
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csi.exe
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\csi.rsp
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.AppContext.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.Collections.Immutable.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.IO.FileSystem.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\System.Reflection.Metadata.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\vbc.exe
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\vbc.exe.config
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\vbc.rsp
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\VBCSCompiler.exe
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\roslyn\VBCSCompiler.exe.config
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\TestDrivenMath.dll.config
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\TestDrivenMath.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\TestDrivenMath.pdb
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.csprojAssemblyReference.cache
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.csproj.CopyComplete
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.dll
+D:\FraHdrev\Visual2017Selection\Projects\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.pdb
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\csc.exe
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\csc.exe.config
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\csc.rsp
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\csi.exe
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\csi.rsp
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\System.AppContext.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\System.Collections.Immutable.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\System.IO.FileSystem.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\System.Reflection.Metadata.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\vbc.exe
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\vbc.exe.config
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\vbc.rsp
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\VBCSCompiler.exe
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\roslyn\VBCSCompiler.exe.config
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\TestDrivenMath.dll.config
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\TestDrivenMath.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\TestDrivenMath.pdb
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.csprojAssemblyReference.cache
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.csproj.CopyComplete
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.dll
+C:\CS\sem2\development-enviroments\TestDrivenMath\TestDrivenMath\obj\Debug\TestDrivenMath.pdb

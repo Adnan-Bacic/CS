@@ -1,0 +1,15 @@
+﻿@model MVC_Demo.ViewModels.Garage.CarsListViewModel
+
+
+<h2>CarsList</h2>
+@Html.ListBox("carsList", Model.CarsList)
+
+<h2>Fastest cars</h2>
+<dl>
+    <dt>ID</dt>
+    <dt>@Model.FastestCar.ID</dt>
+    <dt>Model</dt>
+    <dt>@Model.FastestCar.model</dt>
+    <dt>Max speed</dt>
+    <dt>@Model.FastestCar.maxSpeed</dt>
+</dl>

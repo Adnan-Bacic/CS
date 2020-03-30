@@ -76,3 +76,8 @@ C:\CS\sem2\development-enviroments\MVC_Demo\obj\Debug\MVC_Demo.csprojAssemblyRef
 C:\CS\sem2\development-enviroments\MVC_Demo\obj\Debug\MVC_Demo.csproj.CopyComplete
 C:\CS\sem2\development-enviroments\MVC_Demo\obj\Debug\MVC_Demo.dll
 C:\CS\sem2\development-enviroments\MVC_Demo\obj\Debug\MVC_Demo.pdb
+C:\CS\sem2\development-enviroments\MVC_Demo\obj\Debug\MVC_Demo.csproj.CoreCompileInputs.cache
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\EntityFramework.dll
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\EntityFramework.SqlServer.dll
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\EntityFramework.xml
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\EntityFramework.SqlServer.xml

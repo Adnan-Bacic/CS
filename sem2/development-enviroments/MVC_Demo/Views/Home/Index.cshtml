@@ -19,10 +19,17 @@
 <div class="row">
     <div class="col-md-4">
         <h2>Our products</h2>
+        @using (Html.BeginForm())
+        {
+            @Html.TextBox("searchCriteria")
+            <input type="submit" value="Find product" />
+        }
         @foreach (var product in Model)
         {
             <p>@product.Name</p>
             <p>@product.Description</p>
+            <td>@Html.ActionLink("Details", "Details", new { id = product.ID })</td>
+            <td><img src='@Url.Action("Picture", new { id = product.ID })' /></td>
         }
     </div>
 </div>

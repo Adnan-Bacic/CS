@@ -81,3 +81,9 @@ C:\CS\sem2\development-enviroments\MVC_Demo\bin\EntityFramework.dll
 C:\CS\sem2\development-enviroments\MVC_Demo\bin\EntityFramework.SqlServer.dll
 C:\CS\sem2\development-enviroments\MVC_Demo\bin\EntityFramework.xml
 C:\CS\sem2\development-enviroments\MVC_Demo\bin\EntityFramework.SqlServer.xml
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\System.Net.Http.Formatting.dll
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\System.Web.Http.dll
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\System.Web.Http.WebHost.dll
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\System.Net.Http.Formatting.xml
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\System.Web.Http.xml
+C:\CS\sem2\development-enviroments\MVC_Demo\bin\System.Web.Http.WebHost.xml

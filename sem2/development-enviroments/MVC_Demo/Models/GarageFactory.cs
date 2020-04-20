@@ -17,5 +17,7 @@ namespace MVC_Demo.Models
         {
             Database.SetInitializer(new GarageInitializer());
         }
+
+        public System.Data.Entity.DbSet<MVC_Demo.Models.Product> Products { get; set; }
     }
 }

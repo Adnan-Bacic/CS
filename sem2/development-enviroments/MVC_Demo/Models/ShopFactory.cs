@@ -22,9 +22,9 @@ namespace MVC_Demo.Models
     {
         protected override void Seed(ShopFactory context)
         {
-            context.Products.Add(new Product() { Name = "Yogurt", Description = "desc", Price = 5 });
-            context.Products.Add(new Product() { Name = "Cleaning", Description = "desc2", Price = 3 });
-            context.Products.Add(new Product() { Name = "Banana", Description = "desc3", Price = 1 });
-        }
+            context.Products.Add(new Product() { Name = "Yogurt", Description = "All naturel taste!", Price = 5, ImageName="yogurt.jpg" });
+            context.Products.Add(new Product() { Name = "Apple", Description = "An apple a day keeps the doctor away!", Price = 3, ImageName = "apple.jpg" });
+            context.Products.Add(new Product() { Name = "Banana", Description = "Two for the price of one", Price = 1, ImageName = "banana.jpg" });
+        }        
     }
 }

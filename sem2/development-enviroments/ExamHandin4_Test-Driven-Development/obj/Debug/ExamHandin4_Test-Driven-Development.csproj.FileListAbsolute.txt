@@ -1,0 +1,14 @@
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\obj\Debug\ExamHandin4_Test-Driven-Development.csprojAssemblyReference.cache
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\obj\Debug\ExamHandin4_Test-Driven-Development.csproj.CoreCompileInputs.cache
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\bin\Debug\ExamHandin4_Test-Driven-Development.dll
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\bin\Debug\ExamHandin4_Test-Driven-Development.pdb
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\obj\Debug\ExamHandin4_Test-Driven-Development.csproj.CopyComplete
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\obj\Debug\ExamHandin4_Test-Driven-Development.dll
+C:\CS\sem2\development-enviroments\ExamHandin4_Test-Driven-Development\obj\Debug\ExamHandin4_Test-Driven-Development.pdb

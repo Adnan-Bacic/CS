@@ -30,6 +30,7 @@
             <p>@product.Description</p>
             <td>@Html.ActionLink("Details", "Details", new { id = product.ID })</td>
             <td><img src='@Url.Action("Picture", new { id = product.ID })' /></td>
+            <hr />
         }
     </div>
 </div>

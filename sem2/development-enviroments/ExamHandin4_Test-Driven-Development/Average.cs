@@ -11,9 +11,8 @@ namespace ExamHandin4_Test_Driven_Development
 
             for (int i = 0; i < avg.Length; i++)
             {
-                result += avg[i];
+                result = result + avg[i];
             }
-
             return result;
         }
         public double AverageCalc(params int[] avg)
